@@ -11,7 +11,7 @@ this.printArgs(argArray);
         console.log('this method runs first...');
     }
     runLast() {
-        console.log('this method runs last');
+        console.log('this method runs last!');
     }
 }
 
